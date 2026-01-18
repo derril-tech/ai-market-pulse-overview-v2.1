@@ -1,8 +1,6 @@
 # 🚀 LangGraph MarketPulse
 **AI-Powered Market Intelligence Platform**
 
-🌐 **See the Live Application**: [https://ai-market-pulse-overview.vercel.app/](https://ai-market-pulse-overview.vercel.app/)
-
 > **Transform noisy market headlines into clear, actionable intelligence. Autonomous LangGraph agents orchestrate news aggregation, entity enrichment, and thematic clustering to deliver structured Market Pulse Reports in seconds.** ⚡
 
 ---
@@ -206,18 +204,6 @@ Each node is a discrete function that transforms state, enabling:
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- **Node.js 18+** and npm/pnpm
-- **Python 3.11+**
-- **Supabase** account and project
-- **Upstash Redis** instance
-- **NewsAPI** API key ([get one here](https://newsapi.org/))
-- **OpenAI** API key ([get one here](https://platform.openai.com/))
-
----
 
 ## 🎨 Design System
 
@@ -229,7 +215,6 @@ The application uses a comprehensive design system with:
 - **Border Radius** - Consistent rounded corners (lg: 0.9rem, xl: 1.25rem)
 - **Animations** - Smooth transitions with `animate-in` utilities
 
-See `DESIGN_SYSTEM.md` for complete design specifications.
 
 ---
 
@@ -291,6 +276,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
-**Live Demo**: [https://ai-market-pulse-overview.vercel.app/](https://ai-market-pulse-overview.vercel.app/)
 
 </div>
